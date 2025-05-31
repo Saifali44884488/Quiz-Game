@@ -18,7 +18,7 @@ A beginner-friendly Python quiz game built with **Tkinter**. Features a timer, m
    - Click **Code** → **Download ZIP**
    - Or clone via Git:
      ```
-     git clone https://github.com/Saifali44884488/quiz-game.git
+     https://github.com/Saifali44884488/quiz-game.git
      ```
 2. Run the game:
    ```bash
