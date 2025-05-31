@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Rome", "Berlin"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which language is used for web development?",
+        "options": ["Python", "JavaScript", "C++", "Java"],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Central Processor Unit"],
+        "answer": "Central Processing Unit"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Venus", "Saturn", "Mars"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "O2", "HO2", "OH"],
+        "answer": "H2O"
+    },
+    {
+        "question": "Which country invented paper?",
+        "options": ["India", "Egypt", "China", "Greece"],
+        "answer": "China"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Great White Shark"],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "options": ["Isaac Newton", "Nikola Tesla", "Galileo Galilei", "Albert Einstein"],
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "What is the value of π (pi) approximately?",
+        "options": ["2.14", "3.14", "3.33", "2.72"],
+        "answer": "3.14"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "options": ["1942", "1945", "1939", "1948"],
+        "answer": "1945"
+    },
+    {
+        "question": "Which of these is a programming language?",
+        "options": ["HTML", "CSS", "Python", "HTTP"],
+        "answer": "Python"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What does RAM stand for?",
+        "options": ["Read Access Memory", "Random Access Memory", "Run All Memory", "Ready Access Module"],
+        "answer": "Random Access Memory"
+    },
+    {
+        "question": "Which data structure uses FIFO (First-In, First-Out)?",
+        "options": ["Stack", "Queue", "Tree", "Graph"],
+        "answer": "Queue"
+    },
+    {
+        "question": "Which company developed the Windows operating system?",
+        "options": ["Apple", "Google", "Microsoft", "IBM"],
+        "answer": "Microsoft"
+    },
+    {
+        "question": "Which sorting algorithm has the best average-case time complexity?",
+        "options": ["Bubble Sort", "Merge Sort", "Selection Sort", "Insertion Sort"],
+        "answer": "Merge Sort"
+    },
+    {
+        "question": "Which of these is a valid Python data type?",
+        "options": ["array", "integer", "float", "decimal"],
+        "answer": "float"
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["func", "def", "function", "define"],
+        "answer": "def"
+    },
+    {
+        "question": "Which protocol is used to load web pages?",
+        "options": ["FTP", "SMTP", "HTTP", "SSH"],
+        "answer": "HTTP"
+    },
+    {
+        "question": "What is the output of: print(2 ** 3)?",
+        "options": ["6", "9", "8", "5"],
+        "answer": "8"
+    }
+]
