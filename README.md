@@ -9,7 +9,7 @@ A beginner-friendly Python quiz game built with **Tkinter**. Features a timer, m
 - Modern-looking UI with colors and labels
 - Score is saved to `results.txt`
 
-## 🖥️ Requirements
+## 🖥️ Prerequisites
 - Python 3.x
 - Tkinter (included with most Python installations)
 
